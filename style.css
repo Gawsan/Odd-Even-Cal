@@ -10,6 +10,8 @@ input[type=number]  {
   border-radius:50px;
   width:30%;
   text-align: center;
+  color:red;
+  
 }
 
 .sub{
@@ -27,7 +29,13 @@ button
 
 button:hover{
   background-color:red;
+  
 }
 .pass h3{
-  color:green;
+  color:darkgreen;
+}
+.box{
+ padding: 10px;
+
+
 }
