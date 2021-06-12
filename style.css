@@ -1,30 +1,33 @@
 body{
   background-color:black;
 }
-input[type=text] 
-{
-  border-radius:50px;
-  width:10%;
-  
+h1{
+  color: greenyellow;
 }
+
 
 input[type=number]  {
   border-radius:50px;
-  width:10%;
+  width:30%;
+  text-align: center;
 }
-input[type=submit]  {
-  border-radius:50px;
-  width:10%;
-}
+
 .sub{
   color:white;
   padding:10px;
   margin:auto;
   
 }
-input[type=submit]:hover{
+button 
+{
+  border-radius:50px;
+  width:20%;
+  
+}
+
+button:hover{
   background-color:red;
 }
-.pass h1{
-  color:red;
+.pass h3{
+  color:green;
 }
